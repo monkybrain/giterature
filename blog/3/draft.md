@@ -4,12 +4,11 @@
 console.log(isNaN(∞))
 > false
 
-# Hmm...
+# ?!
 
 console.log(∞)
 > 42
 
-# Aha!
 ```
 
 ### TODO ###
