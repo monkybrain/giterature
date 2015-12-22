@@ -1,0 +1,5 @@
+# sharing is daring #
+
+This is my first ever blog post. For someone who's spent most of his life thinking, reading and analysing everything around him that's rather odd. An endless torrent of input swirling around that lopsided, bony head just waiting to materialise. That's the problem: input requires output or something has to give and considering the amount of conflicting information and world views I harbour, I have to start synthesising and communicating this stuff now if I'm to stay (become --ed.) sane. To feel good about your output and let it gain some value you need a receiver rather than just sending into the void. I'm not sure anyone cares about what I have to say but by keeping it to myself I'll never find out. My main stumbling block as always been the perfectionist in me. "I'd like to share this but it's not quite finished yet. What if there's a typo somewhere? People will think I can't spell. We can't have that! Or what if something I say turns out to be wrong? The horror!". What a cowardly way to live. Sharing is daring...
+
+` > /dev/null == :-(`
