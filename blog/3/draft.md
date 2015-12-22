@@ -8,7 +8,6 @@ console.log(isNaN(∞))
 
 console.log(∞)
 > 42
-
 ```
 
 ### TODO ###
