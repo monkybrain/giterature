@@ -2,7 +2,9 @@
 
 for giterate authors or writers who need help becoming giterate (as in 'literate')
 
-Uses [giterate](https://github.com/monkybrain/giterate) (as in 'iterate') to continually push updates to github.
+Use [giterate](https://github.com/monkybrain/giterate) (as in 'iterate') to continually push updates to github. Harness the power and beauty of github to publish and maintain your work.
+
+Trying out the principles [here](blog/README.md).
 
 ### dogma / manifesto ###
 
