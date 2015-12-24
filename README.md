@@ -4,7 +4,7 @@ for giterate authors
 
 Use [giterate](https://github.com/monkybrain/giterate) to continually push updates to github. Harness the power and beauty of github to publish, document and maintain your work.
 
-Trying out the principles [here](blog/README.md).
+I'm trying out the principles [here](blog/README.md).
 
 ### dogma / manifesto ###
 
