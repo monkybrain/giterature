@@ -1,14 +1,14 @@
 # giterature #
 
-for giterate authors or writers who need help becoming giterate (as in 'literate')
+for giterate authors
 
-Use [giterate](https://github.com/monkybrain/giterate) (as in 'iterate') to continually push updates to github. Harness the power and beauty of github to publish and maintain your work.
+Use [giterate](https://github.com/monkybrain/giterate) to continually push updates to github. Harness the power and beauty of github to publish, document and maintain your work.
 
 Trying out the principles [here](blog/README.md).
 
 ### dogma / manifesto ###
 
-&#35;&#35;&#35; Experimenting with a new manifesto, like dogme 95 for film in the 90s. Still working on it. Please contribute! &#35;&#35;&#35;
+Experimenting with a manifesto, like dogme 95 for film in the 90s. Still working on it. Please contribute!
 
 * Rapid iterations (with [giterate](https://github.com/monkybrain/giterate) or similar tool)
 * Radical openness
@@ -21,5 +21,5 @@ Trying out the principles [here](blog/README.md).
 * Use reddit to upvote/downvote projects, chapters, plotlines etc.
 
 ### status ###
-protohack!
+hack!
 
