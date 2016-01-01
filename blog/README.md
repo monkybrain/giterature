@@ -7,3 +7,7 @@ by [monkybrain](http://www.github.com/monkybrain)
 2) [koans for code monkeys](2/README.md)
 
 3) [NaN the wiser](3/README.md)
+
+4) splice/blend.io ([draft](4/draft.md))
+
+5) solve et coagule ([draft](5/draft.md))
