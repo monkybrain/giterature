@@ -1,10 +1,8 @@
 # giterature #
 
-for giterate authors
-
 Harness the power and beauty of github to publish, document and maintain your work.
 
-I'm trying out the principles [here](https://github.com/monkybrain/literature).
+Trying out the principles [here](https://github.com/monkybrain/literature).
 
 ### dogma / manifesto ###
 
