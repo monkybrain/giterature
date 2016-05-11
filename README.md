@@ -2,9 +2,9 @@
 
 for giterate authors
 
-Use [giterate](https://github.com/monkybrain/giterate) to continually push updates to github. Harness the power and beauty of github to publish, document and maintain your work.
+Harness the power and beauty of github to publish, document and maintain your work.
 
-I'm trying out the principles [here](blog/README.md).
+I'm trying out the principles [here](https://github.com/monkybrain/literature).
 
 ### dogma / manifesto ###
 
@@ -22,4 +22,3 @@ Experimenting with a manifesto, like dogme 95 for film in the 90s. Still working
 
 ### status ###
 hack!
-
